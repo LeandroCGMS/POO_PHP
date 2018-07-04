@@ -27,9 +27,11 @@
             $vi2->avaliarNota(10);
             $vi2->avaliarPorcentagem(100);
             
-            print_r($v);
+            /*print_r($v);
             print_r($g);
-            print_r($g1);
+            print_r($g1);*/
+            print_r($vi);
+            print_r($vi2);
         ?>
         </pre>
     </body>
